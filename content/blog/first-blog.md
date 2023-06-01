@@ -1,7 +1,7 @@
 ---
 title: "First Blog"
 date: 2023-06-01T09:51:43+02:00
-draft: true
+draft: false
 ---
 
 ## Introduction starting a blog

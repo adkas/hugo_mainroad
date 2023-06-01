@@ -1,7 +1,7 @@
 ---
 title: "Frist Page"
 date: 2023-06-01T09:51:13+02:00
-draft: true
+draft: false
 ---
 
 ## Introduction to first page
