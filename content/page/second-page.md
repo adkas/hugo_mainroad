@@ -10,12 +10,14 @@ Editors: Fritz Deininger and Orbelina Eguizabal
 
 ISBN: 9781783682188 Imprint: Langham Global Library Series: ICETE
 
-Link to the books on the Langham website [here:] (https://langhamliterature.org/author-bio?author_id=8351)
-The ICETE Series and other books published by Langham can be found [here] (https://langhamliterature.org/books?series_id=4260) 
+[Flyer zum Buch](/pdf/IPALBook1-LanghamNBIS.pdf)
+
+
+Link to the books on the Langham website [here:](https://langhamliterature.org/author-bio?author_id=8351)
+The ICETE Series and other books published by Langham can be found [here](https://langhamliterature.org/books?series_id=4260)
 The books are available through all major book distributors.
 
 ## Leadership in Theological Education, Volume 1
-![alt text](IPAL-Book-I-frontcover.jpg)
 
 
 ### Foundations for Academic Leadership
@@ -34,7 +36,6 @@ Volume 1 is also available in Spanish.
 
 ## Foundations for Curriculum Design
 
-![alt text](./assets/IPAL-Book-I-frontcover.jpg)
 
 ### Leadership in Theological Education, Volume 2
 
