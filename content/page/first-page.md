@@ -1,7 +1,7 @@
 ---
 title: "First Page"
 date: 2023-06-01T09:52:26+02:00
-draft: true
+draft: false
 ---
 
 ## IPAL Books: Leadership in Theological Education

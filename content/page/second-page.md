@@ -1,7 +1,7 @@
 ---
 title: "Second Page"
 date: 2023-06-01T09:51:26+02:00
-draft: true
+draft: false
 ---
 
 ## IPAL Books: Leadership in Theological Education
